@@ -1,5 +1,5 @@
 # Binary-Search-Tree
-Binary-Search-Tree in Python
+Binary-Search-Tree in Python used for learning git
 
 ## Instructions
 ```bash
